@@ -239,7 +239,7 @@ define('ace/ext/modelist', ['require', 'exports', 'module'], function (
     Jack: ['jack'],
     Jade: ['jade|pug'],
     Java: ['java'],
-    JavaScript: ['js|jsm|jsx'],
+    JavaScript: ['js|jsm|jsx|mjs|cjs'],
     JSON: ['json'],
     JSON5: ['json5'],
     JSONiq: ['jq'],
